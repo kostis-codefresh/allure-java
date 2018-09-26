@@ -28,7 +28,6 @@ The new TestNG adaptors is pretty much ready. To use the adaptor you should add 
    <version>$LATEST_VERSION</version>
 </dependency>
 ```
-
 also you need to configure AspectJ weaver to support steps.
 
 ## JUnit 4
